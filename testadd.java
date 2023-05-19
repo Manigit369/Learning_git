@@ -3,8 +3,8 @@ public class testadd {
     public static void main(String[] args) {
 
 
-        int a = 500;
-        int b = 30;
+        int a = 700;
+        int b = 40;
         int c = a+b;
 
         System.out.println(c);
