@@ -7,5 +7,9 @@ public class testadd {
         int c = a+b;
 
         System.out.println(c);
+        
+        
+        int d = 40;
+        int e = 50;
     }
 }
