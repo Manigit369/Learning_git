@@ -9,7 +9,7 @@ public class testadd {
 
         System.out.println(c);
         
-        
+        int z = 80;
         int d = 70;
         int e = 50;
     }
